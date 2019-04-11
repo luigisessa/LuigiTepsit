@@ -29,8 +29,7 @@ namespace UnitTestProject1_LUIGI
 
             Assert.AreEqual(FCMax_Atteso, FCMax_Calcolato);
         }
-
-
+        
 
 
       
